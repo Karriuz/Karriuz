@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Maciej and I'm (almost) 20 years old CS student interesed in front-end technologies, especially react + libraries and tools commonly used in combination with it. 
+My name is Maciej and I'm 20 years old CS student interesed in front-end technologies, especially react + libraries and tools commonly used in combination with it. 
 
 🌱 I’m currently learning next.js framework, but I wouldn't call it part of my skill set yet
 
@@ -19,18 +19,8 @@ My name is Maciej and I'm (almost) 20 years old CS student interesed in front-en
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=222222&logo=Prettier&logoColor=F7B93E&label=)
 
+#### Contact 📱
 
-<!--
-**Karriuz/Karriuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: https://www.linkedin.com/in/maciej-jezewski/ <br />
+Portfolio:  https://m-jezewski.github.io/ <br />
+Email:  mac.jezewski@gmail.com <br />
