@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Maciej and I'm 20 years old CS student interesed in front-end technologies, especially react + libraries and tools commonly used in combination with it. 
 
-🌱 I’m currently learning next.js framework, but I wouldn't call it part of my skill set yet
+🌱 I’m currently learning next.js framework
 
 #### Technologies 🔧<br />
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
